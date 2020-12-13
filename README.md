@@ -2,7 +2,7 @@
 
 Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
 
-Please read Project_Documentation for more details.
+Please read Project_Documentation for more details. The video could be found at : https://mediaspace.illinois.edu/media/t/1_n26fno8k
 
 To run the scraper code, run “jupyter notebook”.
 
